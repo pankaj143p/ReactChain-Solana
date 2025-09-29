@@ -32,7 +32,7 @@ export default function Features() {
           className="text-center"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-200">
-            MetaStor Features
+            ReactChain SolanaFeatures
           </h1>
           <p className="text-lg md:text-xl mb-8 text-zinc-300">
             Discover the power of decentralized storage with our cutting-edge
@@ -162,7 +162,7 @@ export default function Features() {
             How It Works
           </h2>
           <div className="max-w-3xl mx-auto">
-            <TextGenerateEffect words="MetaStor uses advanced blockchain technology and IPFS to create a decentralized storage network. Your files are encrypted, split into pieces, and distributed across the network. This approach ensures maximum security, availability, and gives you full control over your data." />
+            <TextGenerateEffect words="ReactChain Solanauses advanced blockchain technology and IPFS to create a decentralized storage network. Your files are encrypted, split into pieces, and distributed across the network. This approach ensures maximum security, availability, and gives you full control over your data." />
           </div>
         </div>
       </section>

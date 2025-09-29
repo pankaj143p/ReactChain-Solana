@@ -66,7 +66,7 @@ export default function Home() {
             The Problem We're Solving
           </h2>
           <div className="max-w-3xl mx-auto">
-            <TextGenerateEffect words="In today's digital age, centralized storage solutions pose significant risks to data privacy, security, and ownership. Traditional cloud storage providers have control over your data, leaving it vulnerable to breaches, censorship, and unauthorized access. MetaStor addresses these critical issues by leveraging blockchain technology and decentralized storage protocols." />
+            <TextGenerateEffect words="In today's digital age, centralized storage solutions pose significant risks to data privacy, security, and ownership. Traditional cloud storage providers have control over your data, leaving it vulnerable to breaches, censorship, and unauthorized access. ReactChain Solanaaddresses these critical issues by leveraging blockchain technology and decentralized storage protocols." />
           </div>
         </div>
       </section>
@@ -164,10 +164,10 @@ export default function Home() {
       <section id="how-it-works" className="py-20 relative bg-zinc-950">
         <div className="container mx-auto px-4 relative z-10">
           <h2 className="text-4xl font-bold mb-12 text-center text-zinc-100">
-            How MetaStor Works
+            How ReactChain SolanaWorks
           </h2>
           <div className="max-w-3xl mx-auto">
-            <TextGenerateEffect words="MetaStor utilizes advanced blockchain technology and IPFS (InterPlanetary File System) to create a decentralized storage network. Your files are encrypted, split into pieces, and distributed across the network, ensuring maximum security and availability. This approach eliminates single points of failure and gives you complete control over your data." />
+            <TextGenerateEffect words="ReactChain Solanautilizes advanced blockchain technology and IPFS (InterPlanetary File System) to create a decentralized storage network. Your files are encrypted, split into pieces, and distributed across the network, ensuring maximum security and availability. This approach eliminates single points of failure and gives you complete control over your data." />
           </div>
         </div>
       </section>
@@ -226,7 +226,7 @@ export default function Home() {
               Ready to Take Control of Your Data?
             </h2>
             <p className="text-lg mb-8 text-zinc-300">
-              Join MetaStor today and experience the future of decentralized
+              Join ReactChain Solanatoday and experience the future of decentralized
               storage.
             </p>
             <Button

@@ -43,7 +43,7 @@ export function WalletConnectButton() {
     if (!publicKey || !signMessage) return;
 
     try {
-      const nonce = `MetaStor Login ${Date.now()}`;
+      const nonce = `ReactChain SolanaLogin ${Date.now()}`;
       const message = new TextEncoder().encode(nonce);
 
       toast.loading("Please sign the message...");

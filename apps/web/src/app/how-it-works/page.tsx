@@ -30,7 +30,7 @@ export default function HowItWorks() {
           className="text-center"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-200">
-            How MetaStor Works
+            How ReactChain SolanaWorks
           </h1>
           <p className="text-lg md:text-xl mb-8 text-zinc-300">
             Discover the technology behind our decentralized storage solution.
@@ -78,7 +78,7 @@ export default function HowItWorks() {
             Our Technology Stack
           </h2>
           <div className="max-w-3xl mx-auto">
-            <TextGenerateEffect words="MetaStor leverages cutting-edge technologies including IPFS (InterPlanetary File System) for distributed storage, Solana for smart contracts and blockchain integration, and advanced cryptographic algorithms for secure encryption. This combination ensures a robust, scalable, and secure decentralized storage solution." />
+            <TextGenerateEffect words="ReactChain Solanaleverages cutting-edge technologies including IPFS (InterPlanetary File System) for distributed storage, Solana for smart contracts and blockchain integration, and advanced cryptographic algorithms for secure encryption. This combination ensures a robust, scalable, and secure decentralized storage solution." />
           </div>
         </div>
       </section>
@@ -92,7 +92,7 @@ export default function HowItWorks() {
               Ready to Experience the Future of Storage?
             </h2>
             <p className="text-lg mb-8 text-zinc-300">
-              Join MetaStor today and take control of your data.
+              Join ReactChain Solanatoday and take control of your data.
             </p>
             <RGBBorderButton />
           </div>

@@ -402,7 +402,7 @@ export default function ProfilePage() {
                     Subscription Details
                   </CardTitle>
                   <CardDescription className="text-zinc-400">
-                    Manage your MetaStor subscription and billing preferences.
+                    Manage your ReactChain Solanasubscription and billing preferences.
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-8">

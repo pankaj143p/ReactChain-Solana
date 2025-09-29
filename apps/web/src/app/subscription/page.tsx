@@ -341,7 +341,7 @@ export default function SubscriptionPage() {
             <div className="flex items-center justify-center gap-2 mb-4">
               <LuSparkles className="h-6 w-6 text-blue-400" />
               <span className="text-blue-400 font-semibold">
-                MetaStor Plans
+                ReactChain SolanaPlans
               </span>
             </div>
             <h1 className="text-4xl md:text-7xl font-bold mb-6 text-zinc-100">

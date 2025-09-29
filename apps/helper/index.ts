@@ -21,7 +21,7 @@ async function loadWalletKeypair(): Promise<Keypair> {
 
 function generateNonce(): string {
   const timestamp = Math.floor(Date.now() / 1000);
-  return `MetaStor Login ${timestamp}`;
+  return `ReactChain SolanaLogin ${timestamp}`;
 }
 
 function signMessage(message: string, keypair: Keypair): string {
