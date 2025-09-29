@@ -69,7 +69,7 @@ DecentralStore is a revolutionary decentralized storage platform that connects s
 1. Clone the repository:
 
 ```bash
-https://github.com/kushwahramkumar2003/MetaStor
+https://github.com/pankaj143p/ReactChain-Solana
 cd MetaStor
 ```
 
